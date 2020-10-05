@@ -1,7 +1,7 @@
 
 # List of In Game Names (IGN) 
 
-This repository is a platform for open source enthusiasts to start with their open source contribution by adding their IN-GAME-NAME in any game that you play. 
+This platform resipotory is dedicated for open source enthusiasts to start with their open source contribution by adding their IN-GAME-NAME in any game that you play. 
 
 ## Begin your contributions here. 
 
@@ -13,6 +13,6 @@ This repository is a platform for open source enthusiasts to start with their op
 
 ### 3. Final Step :checkered_flag: Once you finished to edit the `IGN.md` file, create a pull request (you can do it by going in the "Pull requests" tab and selecting "New pull request"). 
 
-### 4. Give this repository a star :star2: 
+### 4. Start the resipotary :star2: 
 
 If you liked working on this project, please share this project as much as you can and star this project (in the top right corner) to help as many people in open source as you can. :smiley: _**Happy Contributing**_ :smiley:
